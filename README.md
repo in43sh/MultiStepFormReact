@@ -1,2 +1,0 @@
-# MultiStepFormReact
-Created with CodeSandbox
